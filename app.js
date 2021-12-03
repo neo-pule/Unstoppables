@@ -6,3 +6,4 @@ for(i = 0; i < days.length;i++)
 }
 console.log('this is written by tshepo')
 console.log('second commit by tshepo')
+console.log("test")
