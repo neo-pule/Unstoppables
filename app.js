@@ -6,5 +6,4 @@ for(i = 0; i < days.length;i++)
 }
 console.log('this is written by tshepo')
 console.log('second commit by tshepo')
-console.log("test")
-alert('coding')
+console.log("test a new branch");
