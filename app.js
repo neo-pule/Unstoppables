@@ -10,6 +10,6 @@ console.log("test")
 alert('coding')
 console.log('last line of code');
 
-const cars = ['bmw', 'benz', 'kia', 'polo'];
+const cars = ['bmw', 'benz', 'kia', 'vw'];
 
 console.log(cars)
